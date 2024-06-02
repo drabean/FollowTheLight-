@@ -3,6 +3,8 @@
 
 Submission for Devs That Jam 36-Hour Challenge [Apr.24]
 
+https://itch.io/jam/devs-that-jam-36hr-challenge-apr24
+
 After coming up with the idea for this game, it took about 12 hours to create the actual game.
 
 
